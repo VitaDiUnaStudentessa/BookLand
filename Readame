@@ -1,0 +1,42 @@
+# Benvenuto su Bookland!
+
+Bookland è una piattaforma online che ti aiuta a trovare il tuo prossimo libro preferito. Attraverso un semplice questionario, ti consigliamo una lista di libri basati sui tuoi interessi e preferenze di lettura.
+
+## Caratteristiche principali
+
+- **Questionario personalizzato**: Rispondi a un breve questionario per permetterci di comprendere i tuoi gusti e le tue preferenze di lettura.
+- **Raccomandazioni di libri**: Dopo aver completato il questionario, riceverai una lista di libri consigliati su misura per te.
+- **Tracciamento dei libri letti**: Tieni traccia dei libri che hai letto e scopri nuovi titoli da aggiungere alla tua lista.
+- **Catalogazione dei nuovi libri**: Aggiungi i libri che desideri leggere in futuro alla tua lista personale.
+- **Semplice e intuitivo**: L'interfaccia utente è progettata per essere facile da usare sia per gli utenti che per gli amministratori del sito.
+
+## Come iniziare
+
+Per iniziare a utilizzare Bookland, segui questi semplici passaggi:
+
+1. **Registrazione**: Crea un account gratuito per accedere alle funzionalità complete del sito.
+2. **Compila il questionario**: Rispondi al questionario per ricevere consigli personalizzati.
+3. **Esplora i libri consigliati**: Scopri nuovi titoli e aggiungili alla tua lista di lettura.
+4. **Traccia i tuoi libri**: Tieni traccia dei libri che hai letto e aggiungi nuovi libri alla tua collezione.
+
+## Tecnologie utilizzate
+
+Bookland è stato sviluppato utilizzando le seguenti tecnologie:
+
+- HTML5
+- CSS3
+- JavaScript
+- [Bootstrap](https://getbootstrap.com/) - Framework front-end per la progettazione dell'interfaccia utente.
+
+## Contribuire
+
+Se sei interessato a contribuire allo sviluppo di Bookland, sei il benvenuto! Puoi aprire issue per segnalare bug, proporre nuove funzionalità o inviare pull request direttamente sul repository del progetto su GitHub.
+
+## Contatti
+
+Se hai domande, suggerimenti o feedback su Bookland, non esitare a contattarci:
+
+- Email: support@bookland.com
+- Sito web: www.bookland.com
+
+Grazie per aver scelto Bookland per trovare i tuoi prossimi libri preferiti!
